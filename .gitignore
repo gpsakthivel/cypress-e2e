@@ -1,0 +1,3 @@
+# Please mention the files and folder below that has to be ignored from this project:
+/node_modules
+package-lock.json
